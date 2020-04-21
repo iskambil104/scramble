@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\bin\Debug\scramblemirror.exe.config
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\bin\Debug\scramblemirror.exe
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\bin\Debug\scramblemirror.pdb
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\obj\Debug\scramblemirror.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\obj\Debug\scramblemirror.Form1.resources
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\obj\Debug\scramblemirror.Properties.Resources.resources
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\obj\Debug\scramblemirror.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\obj\Debug\scramblemirror.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\obj\Debug\scramblemirror.exe
+C:\Users\ahmet\source\repos\scramblemirror\scramblemirror\obj\Debug\scramblemirror.pdb
